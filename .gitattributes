@@ -1,2 +1,0 @@
-*.pak filter=lfs diff=lfs merge=lfs -text
-.config/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/res_audiohigh_3.4.0.19125.pak filter=lfs diff=lfs merge=lfs -text
